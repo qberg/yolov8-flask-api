@@ -1,4 +1,4 @@
-# Aptus Video Analytics Sample YOLOv8 Flask API
+# YOLOv8 Flask API
 
 ## Requirements
 
